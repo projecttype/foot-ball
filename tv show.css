@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.all{
+    margin-top: 20px;
+}
+
+body{
+    background-color: black;
+}
+header{
+    margin-top: 100px;
+    position: fixed;
+    top: 0;
+    display: flex;
+    width: 100%;
+    gap: 20%;
+    align-items: center;
+    margin: 10px 0px;
+   
+    
+}
+
+.netflix{
+    color: crimson;
+    font-size:170%;
+}
+.nav-icons{
+    display: flex;
+    font-size:100%;
+    justify-content: space-between;
+    gap: 20px;
+}
+.nav-icons a{
+   
+    color: white;
+    text-decoration: none;
+
+}
+
+.navbar{
+    gap: 20px;
+    display: flex;
+    font-size:90%;
+    justify-content: space-between;
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    margin-left: 0rem;
+
+
+}
+.popular{
+    color: white;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.anima {
+    padding: 25px;
+    margin: 25px;
+}
+.pic{
+    margin-right: 40px;
+    margin-top: 20px;
+    width: 150px;
+ 
+}
+.button{
+    height: 60px;
+    width: 70px;
+    margin-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

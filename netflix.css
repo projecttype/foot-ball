@@ -1,0 +1,127 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+}
+header{
+    margin-top: 100px;
+    position: fixed;
+    top: 0;
+    display: flex;
+    width: 100%;
+    gap: 20%;
+    align-items: center;
+    margin: 10px 0px;
+   
+    
+}
+
+.netflix{
+    color: crimson;
+    font-size:170%;
+}
+.nav-icons{
+    display: flex;
+    font-size:100%;
+    justify-content: space-between;
+    gap: 20px;
+}
+.nav-icons a{
+   
+    color: white;
+    text-decoration: none;
+
+}
+
+.navbar{
+    gap: 20px;
+    display: flex;
+    font-size:90%;
+    justify-content: space-between;
+
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    margin-left: 0rem;
+
+
+}
+.toprated  h1{
+    color: white;
+    font-size: 300%;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.things h1{
+    margin-top: 5px;
+}
+.m{
+    display: flex;
+   
+}
+.all{
+    margin-top: 20px;
+}
+.para{
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    margin-left: 30px;
+}
+
+.poster img{
+    width: 60rem;
+    gap: 46px;
+    margin: 30px;
+    height: 20rem;
+}
+.play{
+    height: 7%;
+    width: 5%;
+    margin-left: 30px;
+    color: black;
+    
+}
+.more{
+    height: 7%;
+    width: 5%;
+    margin-left: 30px;
+    color: white;
+    background-color: rgb(73, 71, 71);
+    
+}
+.popular{
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.anima {
+    padding: 15px;
+    margin: 15px;
+}
+.pic{
+    margin-right: 40px;
+    margin-bottom: 40px;
+    
+}
+a{
+    color: black;
+    text-underline-position: none;
+}
+.anima .pic{
+    image-resolution: none;
+    height: 15rem;
+}
+.footer a{
+    color: white;
+    gap: 30px;
+}
+.footer{
+margin-left: 300px;
+
+}
