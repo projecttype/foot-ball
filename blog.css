@@ -1,0 +1,49 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.nav {
+  background-color: black;
+  color: white;
+  line-height: 70px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 10;
+}
+
+.all {
+  display: flex;
+  margin-top: 70px;
+}
+
+.content {
+  background-color: rgba(218, 214, 214, 0.324);
+  width: 70rem;
+  height: fit-content;
+  line-height: 30px;
+  margin: 1rem;
+  padding: 1rem;
+  position: sticky;
+  top: 100px;
+  align-self: flex-start;
+}
+
+.sections {
+padding-right: 1rem;
+}
+
+.intro {
+  margin: 3rem 9rem;
+}
+
+.section-header {
+  position: sticky;
+  top: 70px; 
+  background-color: white;
+  padding: 1rem 0;
+  font-size: 1.5rem;
+  border-bottom: 1px solid gray;
+  z-index: 5;
+}
