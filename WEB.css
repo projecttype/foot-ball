@@ -1,0 +1,24 @@
+header{
+    background-color: rgba(70, 255, 70, 0.801);
+    height: 80px;
+    text-align: center;
+    line-height: 70px;
+}
+.content{
+    height: 89%;
+    width: 15%;
+    background-color: rgba(128, 128, 128, 0.103);
+    line-height: 30px;
+    margin-top: 0%;
+    display: flex;
+    position: absolute; 
+    left: 0; 
+    top: 80px;
+    padding: 20px;
+    font-size: 20px;
+     line-height: 50px;
+
+}
+.sit{
+    margin-left: 20%;
+}
